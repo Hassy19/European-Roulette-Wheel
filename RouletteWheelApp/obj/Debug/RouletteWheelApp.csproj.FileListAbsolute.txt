@@ -1,0 +1,15 @@
+C:\Users\hasse\source\repos\RouletteWheelApp\RouletteWheelApp\obj\Debug\RouletteWheelApp.csproj.AssemblyReference.cache
+C:\Users\hasse\source\repos\RouletteWheelApp\RouletteWheelApp\obj\Debug\MainWindow.baml
+C:\Users\hasse\source\repos\RouletteWheelApp\RouletteWheelApp\obj\Debug\MainWindow.g.cs
+C:\Users\hasse\source\repos\RouletteWheelApp\RouletteWheelApp\obj\Debug\App.g.cs
+C:\Users\hasse\source\repos\RouletteWheelApp\RouletteWheelApp\obj\Debug\RouletteWheelApp_MarkupCompile.cache
+C:\Users\hasse\source\repos\RouletteWheelApp\RouletteWheelApp\obj\Debug\RouletteWheelApp.g.resources
+C:\Users\hasse\source\repos\RouletteWheelApp\RouletteWheelApp\obj\Debug\RouletteWheelApp.Properties.Resources.resources
+C:\Users\hasse\source\repos\RouletteWheelApp\RouletteWheelApp\obj\Debug\RouletteWheelApp.csproj.GenerateResource.cache
+C:\Users\hasse\source\repos\RouletteWheelApp\RouletteWheelApp\obj\Debug\RouletteWheelApp.csproj.CoreCompileInputs.cache
+C:\Users\hasse\source\repos\RouletteWheelApp\RouletteWheelApp\bin\Debug\RouletteWheelApp.exe.config
+C:\Users\hasse\source\repos\RouletteWheelApp\RouletteWheelApp\bin\Debug\RouletteWheelApp.exe
+C:\Users\hasse\source\repos\RouletteWheelApp\RouletteWheelApp\bin\Debug\RouletteWheelApp.pdb
+C:\Users\hasse\source\repos\RouletteWheelApp\RouletteWheelApp\obj\Debug\RouletteWheelApp.exe
+C:\Users\hasse\source\repos\RouletteWheelApp\RouletteWheelApp\obj\Debug\RouletteWheelApp.pdb
+C:\Users\hasse\source\repos\RouletteWheelApp\RouletteWheelApp\obj\Debug\RouletteWheelApp.exe.config

@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hasse\\source\\repos\\RouletteWheelApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9884A955-0A49-4056-B45C-B204C1610330}|RouletteWheelApp\\RouletteWheelApp.csproj|C:\\Users\\hasse\\source\\repos\\RouletteWheelApp\\roulettewheelapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9884A955-0A49-4056-B45C-B204C1610330}|RouletteWheelApp\\RouletteWheelApp.csproj|solutionrelative:roulettewheelapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9884A955-0A49-4056-B45C-B204C1610330}|RouletteWheelApp\\RouletteWheelApp.csproj|c:\\users\\hasse\\source\\repos\\roulettewheelapp\\roulettewheelapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9884A955-0A49-4056-B45C-B204C1610330}|RouletteWheelApp\\RouletteWheelApp.csproj|solutionrelative:roulettewheelapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\hasse\\source\\repos\\RouletteWheelApp\\RouletteWheelApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "RouletteWheelApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\hasse\\source\\repos\\RouletteWheelApp\\RouletteWheelApp\\MainWindow.xaml",
+              "RelativeToolTip": "RouletteWheelApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-12T13:54:43.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hasse\\source\\repos\\RouletteWheelApp\\RouletteWheelApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RouletteWheelApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\hasse\\source\\repos\\RouletteWheelApp\\RouletteWheelApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "RouletteWheelApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAwwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T13:54:35.001Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
